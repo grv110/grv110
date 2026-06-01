@@ -1,5 +1,48 @@
-# 💫 About Me:
-Hi, I’m Gaurav Kumar, a fresher Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), and dashboard development.<br>I have worked with Python, SQL, Excel, and Power BI to analyze datasets, identify trends, and create meaningful visualizations that support data-driven decision-making. Through my projects, I have gained practical experience in transforming raw data into actionable insights.<br>
+<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
+
+<h3 align="center">
+Aspiring Data Analyst | Turning Raw Data into Insights 📊
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Technology
+- 📊 Interested in Data Analytics & Business Intelligence
+- 💻 Skilled in Python, SQL, Power BI, Excel
+- 🌱 Currently improving Data Analytics skills
+- 🚀 Building Projects and solving problems
+
+---
+
+## 🛠 Skills
+
+### Languages
+
+Python | SQL
+
+### Tools
+
+Power BI | Excel | Pandas | NumPy
+
+---
+
+## 📈 Projects
+
+### E-Commerce Sales Dashboard
+
+✔ Interactive Dashboard using Power BI
+
+✔ Sales Analysis
+
+✔ Profit Analysis
+
+✔ Customer Insights
+
+✔ State-wise Analysis
+
+---
 
 
 # 💻 Tech Stack:
