@@ -7,46 +7,30 @@ Aspiring Data Analyst | Turning Raw Data into Insights 📊
 ---
 ## 👨‍💻 Professional Summary
 
-I am an aspiring Data Analyst currently pursuing a Bachelor's in Information Technology with a strong interest in data analysis, visualization, and business intelligence. I combine academic knowledge with practical experience in Python, SQL, Power BI, and Excel to transform raw data into meaningful insights and support data-driven decision making.
-
+I am a detail-oriented aspiring Data Analyst with a completed Bachelor's degree in Technology and a strong interest in data analysis, data visualization, and business intelligence. I combine academic knowledge with practical experience in Python, SQL, Power BI, and Excel to transform raw data into meaningful insights and support data-driven decision making.
 ---
 
 ## 🎯 Core Competencies
 
-📊 Data Analysis & Visualization  
-Creating interactive dashboards and extracting insights using Power BI, Excel, and Python
-
-🗄 Database Management  
-Writing SQL queries, managing data, and working with relational databases
-
-📈 Statistical & Analytical Thinking  
-Analyzing trends, patterns, and business metrics from datasets
-
-💼 Business Intelligence  
-Building dashboards and reports for better business understanding
+📊 Data Analysis & Visualization: Creating interactive dashboards and extracting insights using Power BI, Excel, and Python
+🗄 Database Management: Writing SQL queries, managing data, and working with relational databases
+📈 Statistical & Analytical Thinking: Analyzing trends, patterns, and business metrics from datasets
+💼 Business Intelligence: Building dashboards and reports for better business understanding
 
 ---
 
 ## 🌟 What I Bring to the Table
 
-📊 Analytical Mindset  
-Breaking down problems and identifying meaningful insights from data
-
-🔍 Attention to Detail  
-Performing data cleaning, preprocessing, and validation carefully
-
-💡 Problem Solving  
-Using data-driven approaches to solve business problems
-
-🤝 Team Collaboration  
-Comfortable working in teams and presenting project findings
+📊 Analytical Mindset: Breaking down problems and identifying meaningful insights from data
+🔍 Attention to Detail: Performing data cleaning, preprocessing, and validation carefully
+💡 Problem Solving: Using data-driven approaches to solve business problems
+🤝 Team Collaboration: Comfortable working in teams and presenting project findings
 
 ---
 
 ## 🎓 Education
 
-Bachelor's in Information Technology (Current)
-
+Bachelor's of Technology
 Focus Areas: Data Analytics, Database Management, SQL, Statistics
 
 ---
@@ -54,11 +38,8 @@ Focus Areas: Data Analytics, Database Management, SQL, Statistics
 ## 📈 Current Focus
 
 📚 Improving Python and SQL skills for data analysis
-
 📊 Building interactive Power BI dashboards
-
 🗄 Learning advanced database concepts and optimization
-
 📉 Exploring Machine Learning fundamentals
 
 ---
