@@ -5,42 +5,28 @@ Aspiring Data Analyst | Turning Raw Data into Insights 📊
 </h3>
 
 ---
+I am a detail-oriented Data Analyst with a strong foundation in statistical analysis, data visualization, and database management. Currently pursuing my Bachelor's in Information Technology, I combine academic knowledge with practical skills to transform complex datasets into meaningful business insights.
 
-## 👨‍💻 About Me
-
-- 🎓 Bachelor of Technology
-- 📊 Interested in Data Analytics & Business Intelligence
-- 💻 Skilled in Python, SQL, Power BI, Excel
-- 🌱 Currently improving Data Analytics skills
-- 🚀 Building Projects and solving problems
-
----
-
-## 🛠 Skills
-
-### Languages
-
-Python | SQL
-
-### Tools
-
-Power BI | Excel | Pandas | NumPy
-
----
-
-## 📈 Projects
-
-### E-Commerce Sales Dashboard
-
-✔ Interactive Dashboard using Power BI
-
-✔ Sales Analysis
-
-✔ Profit Analysis
-
-✔ Customer Insights
-
-✔ State-wise Analysis
+🎯 Core Competencies
+Data Analysis & Visualization: Creating compelling visual stories using industry-leading tools
+Database Management: Proficient in designing, querying, and optimizing databases
+Statistical Analysis: Applying statistical methods to identify trends and patterns
+Business Intelligence: Developing interactive dashboards for data-driven decision making
+🌟 What I Bring to the Table
+📊 Analytical Mindset: Ability to break down complex problems and identify key metrics
+🔍 Attention to Detail: Meticulous in data cleaning and validation processes
+💡 Problem Solving: Creative approach to finding solutions through data
+🤝 Collaborative Spirit: Experience working in team environments and presenting findings
+🎓 Education
+Bachelor's in Information Technology (Current)
+Focus: Data Analytics, Database Management, Statistical Methods
+📈 Current Focus
+📚 Mastering advanced Python libraries for data analysis
+📊 Building interactive Power BI and Tableau dashboards
+🗄️ Deepening knowledge of SQL optimization and database design
+📉 Exploring Machine Learning fundamentals for predictive analytics
+🎯 Career Objective
+To leverage my analytical skills and technical expertise in data analysis to help organizations make informed, data-driven decisions while continuously growing as a data professional.
 
 ---
 
