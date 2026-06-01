@@ -5,29 +5,67 @@ Aspiring Data Analyst | Turning Raw Data into Insights 📊
 </h3>
 
 ---
-I am a detail-oriented Data Analyst with a strong foundation in statistical analysis, data visualization, and database management. Currently pursuing my Bachelor's in Information Technology, I combine academic knowledge with practical skills to transform complex datasets into meaningful business insights.
+## 👨‍💻 Professional Summary
 
-🎯 Core Competencies
-Data Analysis & Visualization: Creating compelling visual stories using industry-leading tools
-Database Management: Proficient in designing, querying, and optimizing databases
-Statistical Analysis: Applying statistical methods to identify trends and patterns
-Business Intelligence: Developing interactive dashboards for data-driven decision making
-🌟 What I Bring to the Table
-📊 Analytical Mindset: Ability to break down complex problems and identify key metrics
-🔍 Attention to Detail: Meticulous in data cleaning and validation processes
-💡 Problem Solving: Creative approach to finding solutions through data
-🤝 Collaborative Spirit: Experience working in team environments and presenting findings
-🎓 Education
+I am an aspiring Data Analyst currently pursuing a Bachelor's in Information Technology with a strong interest in data analysis, visualization, and business intelligence. I combine academic knowledge with practical experience in Python, SQL, Power BI, and Excel to transform raw data into meaningful insights and support data-driven decision making.
+
+---
+
+## 🎯 Core Competencies
+
+📊 Data Analysis & Visualization  
+Creating interactive dashboards and extracting insights using Power BI, Excel, and Python
+
+🗄 Database Management  
+Writing SQL queries, managing data, and working with relational databases
+
+📈 Statistical & Analytical Thinking  
+Analyzing trends, patterns, and business metrics from datasets
+
+💼 Business Intelligence  
+Building dashboards and reports for better business understanding
+
+---
+
+## 🌟 What I Bring to the Table
+
+📊 Analytical Mindset  
+Breaking down problems and identifying meaningful insights from data
+
+🔍 Attention to Detail  
+Performing data cleaning, preprocessing, and validation carefully
+
+💡 Problem Solving  
+Using data-driven approaches to solve business problems
+
+🤝 Team Collaboration  
+Comfortable working in teams and presenting project findings
+
+---
+
+## 🎓 Education
+
 Bachelor's in Information Technology (Current)
-Focus: Data Analytics, Database Management, Statistical Methods
-📈 Current Focus
-📚 Mastering advanced Python libraries for data analysis
-📊 Building interactive Power BI and Tableau dashboards
-🗄️ Deepening knowledge of SQL optimization and database design
-📉 Exploring Machine Learning fundamentals for predictive analytics
-🎯 Career Objective
-To leverage my analytical skills and technical expertise in data analysis to help organizations make informed, data-driven decisions while continuously growing as a data professional.
 
+Focus Areas: Data Analytics, Database Management, SQL, Statistics
+
+---
+
+## 📈 Current Focus
+
+📚 Improving Python and SQL skills for data analysis
+
+📊 Building interactive Power BI dashboards
+
+🗄 Learning advanced database concepts and optimization
+
+📉 Exploring Machine Learning fundamentals
+
+---
+
+## 🎯 Career Objective
+
+To apply my analytical and technical skills in data analytics and contribute to data-driven decision making while continuously learning and growing as a data professional.
 ---
 
 
